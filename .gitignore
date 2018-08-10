@@ -1,0 +1,6 @@
+lib
+bin
+mapreduce/bin
+mapreduce/lib
+mapreduce/include
+.DS_Store
